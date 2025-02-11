@@ -40,7 +40,7 @@ Upgrade when you need **more power**! 🦾💥
 
 ## 🚀 Getting Started
 
-1️⃣ **Sign Up** on our dashboard: [dash.nexustudios.xyz](https://dash.nexustudios.xyz)  
+1️⃣ **Sign Up** on our dashboard: [dash.nexustudios.in](https://dash.nexustudios.in)  
 2️⃣ **Choose a Plan** (Free or Paid)  
 3️⃣ **Deploy Your Server** – It’s that easy! 🏗️  
 4️⃣ **Enjoy Lag-Free Hosting!** 🎉
@@ -50,8 +50,8 @@ Upgrade when you need **more power**! 🦾💥
 ## 📞 Support & Community
 
 💬 **Join our Discord:** [discord.gg/yBvbtwfYST](https://discord.gg/yBvbtwfYST)  
-📧 **Contact Us:** support@nexusstudios.xyz  
-🛠 **Website:** [docs.nexusstudios.xyz](https://nexustudios.xyz)
+📧 **Contact Us:** hello@nexustudios.xyz  
+🛠 **Website:** [nexustudios.in](https://nexustudios.in)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
 
